@@ -1,0 +1,5 @@
+{{#user}}
+Name: Harika Manapurapu
+Skills: HTML, CSS, JS, ReactJs, NodeJS,MongoDB,Python,SQL
+Email: harikamanapurapu@gmail.com
+{{/user}}
